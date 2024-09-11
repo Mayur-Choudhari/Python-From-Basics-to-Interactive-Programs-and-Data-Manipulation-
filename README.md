@@ -1,4 +1,4 @@
-# "Python Coding Journey: From Basics to Interactive Programs and Data Manipulation"
+# Python Coding Journey: From Basics to Interactive Programs and Data Manipulation"
 
 
 
